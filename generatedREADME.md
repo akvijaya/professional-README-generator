@@ -1,8 +1,8 @@
 
-  # rrr
+  # Generate ReadME file 
 
   ## Description
-  rrr
+  The application will create a READ ME file based on responses
 
   ## Table of Contents
   * [Description](#description)
@@ -16,27 +16,24 @@
   * [Tests](#tests)
   
   ## GitHub Information
-  rrrr
-  rrrrr
-  rrrr
+  akvijaya
+  none
+  abisonvijay@gmail.com
 
   ## Installation
-  rrr
+  install inquirer and node.js
   
   ## Usage
-  rrr
-
-  ## Credits
-  undefined
-
-  ## License
-  undefined
+  none 
 
   ## Languages
-  Javascript
+  Javascript,Node.js
   
   ## Contributions
-  rrr
+  Abison 
 
   ## Tests
-  rrr
+  run through the responses
+  
+  ## License
+  MIT
